@@ -1,0 +1,8 @@
+apiVersion: training.eduk8s.io/v1alpha1
+kind: WorkshopRequest
+metadata:
+  name: onboarding-workshop
+spec:
+  environment:
+    name: onboarding-workshop
+    token: onboarding-workshop

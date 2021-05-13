@@ -1,0 +1,28 @@
+apiVersion: training.eduk8s.io/v1alpha2
+kind: Workshop
+metadata:
+  name: onboarding-workshop
+spec:
+  title: Educates Onboarding
+  description: Introductory workshop to the Educates team
+  url: https://github.com/ryanmattcollins/onboarding-workshop
+  vendor: vmware.com
+  authors:
+  - Ryan Collins
+  difficulty: beginner
+  duration: 1h
+  tags:
+  - kubernetes
+  content:
+    image: quay.io/eduk8s-labs/lab-k8s-fundamentals:master
+  session:
+    namespaces:
+      budget: medium
+    applications:
+      terminal:
+        enabled: true
+        layout: split
+      console:
+        enabled: true
+      editor:
+        enabled: true
