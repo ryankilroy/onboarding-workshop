@@ -14,7 +14,7 @@ spec:
   tags:
   - kubernetes
   content:
-    image: quay.io/eduk8s-labs/lab-k8s-fundamentals:master
+    image: docker.io/ryanmattcollins/onboarding-workshop:dev
   session:
     namespaces:
       budget: medium
