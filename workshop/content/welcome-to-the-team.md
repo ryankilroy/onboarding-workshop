@@ -1,4 +1,4 @@
-HELOLO
+DOES THE GIT THING WORK?
 
 The workshop environment also provides you with a web based view into the Kubernetes cluster. This is available through the **Console** tab of the workshop environment. This is included so you can visually see the results of what you do in the exercises, but the exercises do not depend on it.
 

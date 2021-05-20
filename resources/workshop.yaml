@@ -14,7 +14,8 @@ spec:
   tags:
   - kubernetes
   content:
-    image: docker.io/ryanmattcollins/onboarding-workshop:dev
+    image: quay.io/eduk8s/base-environment:210412.021524.c3dacdc
+    files: github.com/ryanmattcollins/onboarding-workshop?ref=dev
   session:
     namespaces:
       budget: medium
