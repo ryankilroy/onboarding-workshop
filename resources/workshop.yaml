@@ -14,7 +14,8 @@ spec:
   tags:
   - kubernetes
   content:
-    image: docker.io/ryanmattcollins/onboarding-workshop:dev
+    # image: docker.io/ryanmattcollins/onboarding-workshop:dev
+    files: https://ryanmattcollins@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:github.com/ryanmattcollins/onboarding-workshop?ref=dev
   session:
     namespaces:
       budget: medium
