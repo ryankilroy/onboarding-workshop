@@ -1,7 +1,8 @@
-name: Kubernetes Fundamentals
+name: Onboarding Workshop
 
 modules:
     activate:
-    - index
-    - exercises/welcome-to-the-team
+    - welcome-to-the-team
+    - checklist
+    - learning
     - finish

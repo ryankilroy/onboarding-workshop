@@ -1,9 +1,10 @@
 modules:
-    index:
-        name: Workshop Overview
-        exit_sign: Start Workshop
-    exercises/welcome-to-the-team:
+    welcome-to-the-team:
         name: Welcome to the Team
+    checklist:
+        name: Onboarding Checklist
+    learning:
+        name: Additional Learning
     finish:
-        name: Workshop Summary
+        name: Add your mark!
         exit_sign: Finish Workshop

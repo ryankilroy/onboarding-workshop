@@ -6,11 +6,11 @@ repo="ryanmattcollins/onboarding-workshop"
 workshop="onboarding-workshop"
 tag="dev"
 
-# docker build . -t ${repo}:${tag}
-# docker push ${repo}:${tag}
-git add -A
-git ci -m "bump"
-git push origin dev
+docker rmi ${repo}:${tag}
+docker build . -t ${repo}:${tag}
+docker push ${repo}:${tag}
+
+sleep 5
 
 kubectl delete workshop ${workshop}
 kubectl delete trainingportal ${workshop}
@@ -26,4 +26,4 @@ do
 done
 
 echo -e "\nWorkshop available:"
-kubectl get workshopsessions
+kubectl get trainingportal
