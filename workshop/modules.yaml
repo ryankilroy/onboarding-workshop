@@ -1,12 +1,16 @@
 modules:
     intro:
         name: What is Educates?
-    checklist:
-        name: Onboarding Checklist
-    learning:
-        name: Additional Learning
     meet-the-team:
         name: Meet the Team
+    checklist:
+        name: Onboarding Checklist
+    overview:
+        name: Project Overview
+    deploy-locally:
+        name: Deploying Educates
+    learning:
+        name: Additional Learning
     finish:
         name: Add your mark!
         exit_sign: Finish Workshop

@@ -1,30 +1,15 @@
-# Learning
-Charter: https://docs.google.com/document/d/1yKtjV3HOlTVNVMjPsiWQyVT9tkL31rQtS2C5EKVBbOg/edit#
+# Engineers
 
-High level overview of the short term vision and goal for the team
-Educates User Research: https://docs.google.com/document/d/1RLs-_DSaV3Y1WntePuUAgAJfCPuPN2ovobIWTbukT58/edit
+## Ryan Collins (@ryancollins) - rycollins@vmware.com
 
-evidence from existing users of how they're using it and what they want
+Howdy!
 
-Video introducing Educates to the Dev Enablement Program: https://vmware.slack.com/archives/C01VAB0V8B0/p1619553315004600
+<img src="../images/ryan/01.jpg" alt="howdy-ryan" width="400">
 
-Pia goes through how we fit into the grand vision, a crash course in educates and how's its being used today
+I'm Ryan and I'm the initial creator of this workshop, so if you love it, you're welcome! If you don't like it, then Peter did it.
 
+I was hired by Pivotal Sofware in November 2015 which was acquired by VMware in 2020. I currently live in Toronto, Ontario with my fiancée Jesse and our two hounds; Gunther (big) and Gertie (little).
 
-Misc links:
+<img src="../images/ryan/02.jpg" alt="gertie-gunther" width="500">
 
-docs https://docs.edukates.io/en/latest/
-repos:
-https://gitlab.eng.vmware.com/educates
-public
-https://gitlab.eng.vmware.com/educates-labs
-internal and holds workshops that have been created
-Hands on Learning:
-
-deploy educates:
-acquire a k8s cluster:
-quick and easy: create a cluster through kind (https://kind.sigs.k8s.io/docs/user/quick-start/)
-You'll need docker on your local machine
-the official educates docs have a good guide on how to deploy on kind and minikube https://docs.edukates.io/en/latest/
-TODO: The docs are going to be moved one day
-Pro Tip for Mac users: Use `ifconfig` to find your internal IP address for the `INGRESS_DOMAIN` environment variable. Your public IP will not work because you may not have control of exposing a port on it.
+I come from a background of pair programming and love to meet new people, so don't hesitate at all to reach out if you have questions. Or even just to have a cup of coffee and a chat!
