@@ -1,10 +1,12 @@
 modules:
-    welcome-to-the-team:
-        name: Welcome to the Team
-    checklist:
+    1-intro:
+        name: What is Educates?
+    2-checklist:
         name: Onboarding Checklist
-    learning:
+    3-learning:
         name: Additional Learning
-    finish:
+    4-meet-the-team:
+        name: Meet the Team
+    5-finish:
         name: Add your mark!
         exit_sign: Finish Workshop

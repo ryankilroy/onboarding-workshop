@@ -1,8 +1,19 @@
-# Learning
-Charter: https://docs.google.com/document/d/1yKtjV3HOlTVNVMjPsiWQyVT9tkL31rQtS2C5EKVBbOg/edit#
+You will probably learn a lot about the team just by interacting and chatting with folks on the team, but here are some resources that might be useful to go through or reference later.
 
-High level overview of the short term vision and goal for the team
-Educates User Research: https://docs.google.com/document/d/1RLs-_DSaV3Y1WntePuUAgAJfCPuPN2ovobIWTbukT58/edit
+## Project Overview
+The document used in the initial inception of this project (i.e., *eduk8s* becoming the VMware product *Educates*)
+
+```dashboard:create-dashboard
+name: Vision and Goal - Short Term
+url: https://docs.google.com/document/d/1yKtjV3HOlTVNVMjPsiWQyVT9tkL31rQtS2C5EKVBbOg/edit#
+```
+
+This document has some user research that has been collected if that kind of thing interests you.
+
+```dashboard:create-dashboard
+name: User Research
+url: https://docs.google.com/document/d/1RLs-_DSaV3Y1WntePuUAgAJfCPuPN2ovobIWTbukT58/edit#
+```
 
 evidence from existing users of how they're using it and what they want
 
