@@ -8,14 +8,17 @@ name: Vision and Goal - Short Term
 url: https://docs.google.com/document/d/1yKtjV3HOlTVNVMjPsiWQyVT9tkL31rQtS2C5EKVBbOg/edit#
 ```
 
-This document has some user research that has been collected if that kind of thing interests you.
+Here is a recording of where our Product Manager **Pia Chakrabarti (@pia)** introduced the Educates project to the rest of the Developer Enablement Program we are a part of. *(Passcode: 5&kp6@e?)*
+```dashboard:create-dashboard
+name: Educates x Developer Enablement
+url: https://vmware.zoom.us/rec/share/_sehoVJmy0_ZJxn7u9zAD4hLR6yDsIoODXh701kkhz4Kck5c6J2M1CoZwUekkXBv.Umtipzs5gVGh22NV
+```
 
+This document has some user research that has been collected if that kind of thing interests you.
 ```dashboard:create-dashboard
 name: User Research
 url: https://docs.google.com/document/d/1RLs-_DSaV3Y1WntePuUAgAJfCPuPN2ovobIWTbukT58/edit#
 ```
-
-evidence from existing users of how they're using it and what they want
 
 Video introducing Educates to the Dev Enablement Program: https://vmware.slack.com/archives/C01VAB0V8B0/p1619553315004600
 

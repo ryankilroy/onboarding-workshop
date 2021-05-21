@@ -2,7 +2,8 @@ name: Onboarding Workshop
 
 modules:
     activate:
-    - welcome-to-the-team
+    - intro
     - checklist
     - learning
+    - meet-the-team
     - finish
