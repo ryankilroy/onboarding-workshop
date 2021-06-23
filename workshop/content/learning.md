@@ -8,7 +8,7 @@ url: https://docs.edukates.io/en/latest/workshop-content/workshop-config.html
 
 There's also a sample workshop you can reference from on Github.
 ```dashboard:open-url
-url: https://github.com/eduk8s/lab-markdown-sample
+url: https://mybinder.org/v2/gh/ipython/ipython-in-depth/master?filepath=binder/Index.ipynb
 ```
 
 But what I'd like you to do is modify *this* workshop, and add your mark to it!
@@ -21,3 +21,7 @@ echo "Also we will need to figure out how to include push-pull credentials here 
 ```
 
 You can clone the repo on your local machine if you'd like, but Educates actually comes with a VS Code editor and Terminal, so you can also do it all here as well!
+
+```editor:open-file
+file: ~/path/to/cloned/repo
+```
