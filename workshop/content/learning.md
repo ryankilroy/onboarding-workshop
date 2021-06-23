@@ -3,12 +3,12 @@ Now that you have an Educates deployment, you can start making/modifying a works
 You can reference the on workshop creation here.
 ```dashboard:create-dashboard
 name: Edukates Docs - Workshop Config
-url: https://docs.edukates.io/en/latest/workshop-content/workshop-config.html
+url: https://mybinder.org/v2/gh/ipython/ipython-in-depth/master?filepath=binder/Index.ipynb
 ```
 
 There's also a sample workshop you can reference from on Github.
 ```dashboard:open-url
-url: https://mybinder.org/v2/gh/ipython/ipython-in-depth/master?filepath=binder/Index.ipynb
+url: https://github.com/eduk8s/lab-markdown-sample
 ```
 
 But what I'd like you to do is modify *this* workshop, and add your mark to it!
